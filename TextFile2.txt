@@ -2,3 +2,6 @@ Another file!
 Who can see what's happening next.
 I have to add some more to this file.
 Anne and Ben were both here :)
+
+zmiana w pliku 2
+zmiana w pliku 22
